@@ -1,4 +1,4 @@
-# Simon Game
+# Mind Melody
 
 This is a simple implementation of the classic Simon game using the jQuery library. The Simon Game is a memory game where players are challenged to remember and repeat a sequence of colors and sounds.
 
